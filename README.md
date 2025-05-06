@@ -48,3 +48,7 @@ Edges reveal sharp mysteries.
 Contours whisper the geometry of flaws.
 
 The overlay illuminates the chief fracture—painted with hues of consequence.
+
+
+Main Collaborators: Srijan S Shetty, Sanath and Deekshith Naik
+ 
