@@ -1,4 +1,4 @@
-**X-Ray Crack Detection — A Visual Interface for Fracture Insight**
+#X-Ray Crack Detection — A Visual Interface for Fracture Insight#
 
 Unveiling the silent fissures within industrial materials or skeletal structures demands more than mere visual inspection. This application harmonizes computer vision algorithms with an intuitive graphical interface to discern and illustrate cracks from X-ray images with precision and artistry.
 
@@ -7,7 +7,7 @@ Unveiling the silent fissures within industrial materials or skeletal structures
 pip install opencv-python numpy matplotlib pillow
 
 
-**Functionality**
+##Functionality##
 
 Grayscale Conversion — Drowns the image in monochrome for sharper abstraction.
 
@@ -24,18 +24,13 @@ Contour Weaving — Outlines every suspect crevice using iterative scrutiny.
 Shape Filtering — Employs aspect ratio and arc length metrics to discard the mundane.
 
 
-**User Interface Elegance**
+##User Interface Elegance##
 
 Raw input
 All visible contours
 Final annotated masterpiece
 The original X-ray stands untouched.
 Edges reveal sharp mysteries.
-
-Contours whisper the geometry of flaws.
-
-The overlay illuminates the chief fracture—painted with hues of consequence.
-
 
 Main Collaborators: Srijan S Shetty, Sanath and Deekshith Naik
  
