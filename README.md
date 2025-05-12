@@ -1,4 +1,4 @@
-#X-Ray Crack Detection — A Visual Interface for Fracture Insight#
+#X-Ray Crack Detection — A Visual Interface for Fracture Insight
 
 Unveiling the silent fissures within industrial materials or skeletal structures demands more than mere visual inspection. This application harmonizes computer vision algorithms with an intuitive graphical interface to discern and illustrate cracks from X-ray images with precision and artistry.
 
