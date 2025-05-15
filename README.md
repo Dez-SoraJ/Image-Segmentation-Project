@@ -27,10 +27,11 @@ Shape Filtering — Employs aspect ratio and arc length metrics to discard the m
 ##User Interface Elegance##
 
 Raw input
-All visible contours
-Final annotated masterpiece
-The original X-ray stands untouched.
-Edges reveal sharp mysteries.
+
+1, All visible contours
+2, Final annotated masterpiece
+3, The original X-ray stands untouched.
+4, Edges reveal sharp mysteries.
 
 Main Collaborators: Srijan S Shetty, Sanath and Deekshith Naik
  
