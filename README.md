@@ -4,7 +4,7 @@ Unveiling the silent fissures within industrial materials or skeletal structures
 
 **Requisites for Incantation**
 
-pip install opencv-python numpy matplotlib pillow
+>>pip install opencv-python numpy matplotlib pillow
 
 
 ##Functionality##
